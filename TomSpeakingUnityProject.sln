@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomSpeakingUnityProject", "TomSpeakingUnityProject.csproj", "{69502D4C-E1BF-3056-1308-B97AB0ABE94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomSpeakingUnityProject.Plugins", "TomSpeakingUnityProject.Plugins.csproj", "{30573861-991B-52E8-F204-B34105E6CAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomSpeakingUnityProject.Editor.Plugins", "TomSpeakingUnityProject.Editor.Plugins.csproj", "{7F3F214D-BD6C-9995-4E68-69028F41B020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomSpeakingUnityProject.Editor", "TomSpeakingUnityProject.Editor.csproj", "{155906B2-C33B-EEA0-1A62-13C48D90B853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69502D4C-E1BF-3056-1308-B97AB0ABE94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69502D4C-E1BF-3056-1308-B97AB0ABE94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69502D4C-E1BF-3056-1308-B97AB0ABE94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69502D4C-E1BF-3056-1308-B97AB0ABE94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30573861-991B-52E8-F204-B34105E6CAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30573861-991B-52E8-F204-B34105E6CAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30573861-991B-52E8-F204-B34105E6CAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30573861-991B-52E8-F204-B34105E6CAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3F214D-BD6C-9995-4E68-69028F41B020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3F214D-BD6C-9995-4E68-69028F41B020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3F214D-BD6C-9995-4E68-69028F41B020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3F214D-BD6C-9995-4E68-69028F41B020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155906B2-C33B-EEA0-1A62-13C48D90B853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155906B2-C33B-EEA0-1A62-13C48D90B853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155906B2-C33B-EEA0-1A62-13C48D90B853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155906B2-C33B-EEA0-1A62-13C48D90B853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
